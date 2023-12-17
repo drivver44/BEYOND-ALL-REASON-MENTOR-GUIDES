@@ -1,8 +1,8 @@
-### Basic Guide to Making Guides
+## Basic Guide to Making Guides
 
 #### The most important thing is to try to be concise.
 
-#### Guidelines
+### Guidelines
 1) Be as Concise as possible while also speaking in a language anyone can understand
 2) Starter guides should be as short as possible. The more advanced the guide, the more detailed it can be. If there is a technical guide on the subject, please reference it so the player has somewhere to look if they want a deeper explanation
 3) For technical guides, try to explain the entire inner workings of the subject
@@ -14,7 +14,7 @@
 ### Formatting / Workflow
 - I usually fill in title/author and a general header/subheader outline first and add in details after to keep myself on track. If something gets overly detailed, I consider breaking those details off into a technical guide.
 
-## Zeteo Notes:
+### Zeteo Notes:
 
 - Many of these guides are blank, acting as a placeholder as to not forget, feel free to fill in any or add a guide you think is useful that isn't already covered
 - The filled in guides are often unfinished / work in progress (WIP). Feel free to edit or add to any of these
