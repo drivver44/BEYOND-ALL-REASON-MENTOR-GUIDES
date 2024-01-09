@@ -50,7 +50,9 @@
 	- Reclaim nearby neutral objects
 - Construction turrets are one of the more efficient ways to add build power to their vicinity
 
-#### [Click here for a deeper dive on how long it takes to build something or resources spent/sec](https://github.com/Zete0/Guides/blob/main/Technical/Calculating%20Resources%20Spent.md))
+#### [Click here for a deeper dive on how long it takes to build something or resources spent/sec](https://github.com/Zete0/Guides/blob/main/Technical/Calculating%20Resources%20Spent.md)
+
+*This [widget](https://discord.com/channels/549281623154229250/1158860869980139550) (downloaded from the discord) can also be quite useful, it calculates the build power cost per second. Information on installing widgets can be found [here](https://github.com/Zete0/Mentor-Guides/blob/main/Customization/Using%20Widgets.md)*
 
 <br></br><br></br>
 ## Balancing Economy is First Step to Victory
