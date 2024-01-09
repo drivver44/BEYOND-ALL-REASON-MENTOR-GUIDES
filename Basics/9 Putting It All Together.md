@@ -65,7 +65,7 @@ This checklist is meant to help with understanding where your focus should be as
 	- Understand how resources drain and gain per second, and get a feel for how they drain building common units/structures.
 
 2) **Work on your opener, adapt to the map and situational changes, every game is different**
-	- Take a look at the 
+	- Take a look at the [Pre-Game Checklist](https://github.com/Zete0/Mentor-Guides/blob/main/Basics/9%20Putting%20It%20All%20Together.md#2-pre-game-checklist)
 
 4) **Work on Controlling space and Expanding your Economy
 	- Create long queued orders for builders to build metal extractors, energy production 
