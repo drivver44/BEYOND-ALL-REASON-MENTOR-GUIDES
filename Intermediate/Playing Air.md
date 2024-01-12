@@ -29,4 +29,22 @@
 ## Timings
 - There are specific windows of opportunities based on what your opposing air player is doing. The biggest window of opportunity is when they are transitioning into T2 economy. This timing is going to change slightly depending on the map and who your opponent is, but there is potential to do a big bombing run around that time, a little after when T2 cons start coming out. To use this timing to your advantage usually means giving up early T2 to produce a few extra fighters and a lot of bombers to be able to strike at that time.
 
-## The Bombing Run
+## Bombers
+If you've never done a bombing run before, it can feel quite alien, as the micro is quite different because of the floaty nature of how bombers move and the simple fact you can't just use a fight command or move command to get them properly shooting.
+  
+- The most important thing is to see and select your target ahead of time. You cannot wait for the bomber to be at the target as the bombs start dropping well before the bombers reach the target. Aircraft also generally have a very low ground LOS, so you cannot just drive them into an unknown territory and have them start shooting.
+- Bombers drop bombs in a line, with each one doing significant AoE, so it's best not to use bombers near friendly troops or buildings and almost never to try and take out a raid or your allies may not like you much afterwards.
+
+### The Bombing Run
+
+## Fighters
+- 
+
+
+## Transports
+- While a unit is being transported, you can see the unit under it and you may see some of the unit's properties such as jamming. These properties do NOT transfer to the transport. It may be ill advised to think of it as a unit under a transport and instead a unit inside a transport that looks cooler if it was under it.
+- Some small buildings can be transported by T1 such a LLTs and construction turrets. Some buildings can only be transported by a larger T2 transport.
+- The "Transport Heavy" property some units have does NOT pertain to if it can be transported by a T1 transport, but instead, how much weight is added to the tranport *(thus slowing it down)*. So even though the construction turret is "heavy", it can be transported by a T1 transport.
+
+
+
