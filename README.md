@@ -2,6 +2,7 @@
 
 #### The most important thing is to try to be concise.
 
+
 ### Guidelines
 1) Be as Concise as possible while also speaking in a language anyone can understand
 2) Starter guides should be as short as possible. The more advanced the guide, the more detailed it can be. If there is a technical guide on the subject, please reference it so the player has somewhere to look if they want a deeper explanation
