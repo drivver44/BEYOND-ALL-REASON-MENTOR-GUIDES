@@ -20,12 +20,26 @@
 - The filled in guides are often unfinished / work in progress (WIP). Feel free to edit or add to any of these
 - For now, most of what I've done is to just consolidate the information on appropriate pages. Some of that should probably be broken down into subpages, as some of it gets a bit long
 
-### How Do?
+## How Do?
 - If you are unfamiliar with github or markdown, don't be afraid to ask questions!
-- Some markdown guides that I tend to reference
 
-    https://stackabuse.com/markdown-by-example/
-  
-    https://markdownguide.offshoot.io/extended-syntax/
-  
-    https://daringfireball.net/projects/markdown/syntax#p
+#### Some Git Jargon
+- **Repo** - Repository, the hub where everything is stored
+- **Commits** - Essentially what git calls saving
+- **PR** - Pull Request - Essentially asking to merge your file(s) with the main repo (must be approved by the repo owner)
+- **Branch** - A place to make edits, has a more Convergent workflow
+- **Fork** - Another place to make edits with a more divergent workflow in mind
+
+- Essentially, after creating an account, you either want to create a branch or a fork from the main repo, make your edits, then submit a PR.
+
+[This is the official github tutorial](https://docs.github.com/en/get-started/quickstart/hello-world#creating-a-branch) <br>
+*NOTE: Many tutorials out there has you get started with using/syncing the desktop app, this one is more for getting started using only the website.*
+
+#### Using Markdown
+
+- Github can be used with a variety of markings / code. Here, we're using markdown as it's very easy to use. So each file here ends in a .md
+- Some markdown guides that I tend to reference:
+
+    https://stackabuse.com/markdown-by-example/ <br>
+    https://markdownguide.offshoot.io/extended-syntax/ <br>
+    https://daringfireball.net/projects/markdown/syntax#p <br>
