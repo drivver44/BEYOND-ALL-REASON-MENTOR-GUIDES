@@ -106,12 +106,20 @@ More Details about the terrain can be found here: [Understanding the Terrain](ht
 
 Your opener should always be based on the map features, where you spawn, and who/where your allies spawn
 
-### 1) Openers should almost always include taking all metal very close to your spawn asap
-### 2) As you claim the metal nodes near your commander, watch over your energy. If you plan to build a solar, you can let it deplete first, as solars do not cost energy. If you're planning to build wind, do it before your energy runs out, since they do cost energy
-### 3) If there is reclaim to fight over in contested areas, or you plan to rely on Energy reclaim early, you may want a bot lab sooner than later to build a rez bot and some faster/cheaper units to defend them
-### 4) Consider Your Base Layout - [Base Layout Guide](https://github.com/Zete0/Mentor-Guides/blob/main/Basics/3%20Base%20Layout.md)
+#### 1) Claim Mex Nodes asap
+- Resources accumulate as you're building other structures and since metal is usually the limiting factor, it's important to try and build those up sooner than later
+- Ideally place your commander in between metal nodes so the commander doesn't have to spend time walking to them
+#### 2) Plan Out Your Energy
+- As you claim the metal nodes near your commander, watch over your energy
+- If you plan to build a solar, you can let it deplete first, as solars do not cost energy
+- If you're planning to build wind, do it before your energy runs out, since they do cost energy
+#### 3) Look for Reclaim
+- If there is reclaim to fight over in contested areas, or you plan to rely on Energy reclaim early, you may want a bot lab sooner than later to build a rez bot and some faster/cheaper units to defend them
+#### 4) Consider Your Base Layout 
+- Having a layout that allows for smooth unit pathing can make a sizable difference
+- More info here: [Base Layout Guide](https://github.com/Zete0/Mentor-Guides/blob/main/Basics/3%20Base%20Layout.md)
 
-More Details about Openers can be found here: [Common Openers](https://github.com/Zete0/Mentor-Guides/blob/main/Basics/1%20Common%20Openers.md)
+More Details about Openers can be found here as well: [Common Openers](https://github.com/Zete0/Mentor-Guides/blob/main/Basics/1%20Common%20Openers.md)
 
 **Doing these things before the game even starts will help you avoid making a lot of common mistakes and help you develop a sense of good ways to play even if you are new to a map.**
 
