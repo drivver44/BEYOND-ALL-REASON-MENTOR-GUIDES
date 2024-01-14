@@ -43,6 +43,7 @@ This checklist is a list of things to constantly monitor as the game moves on. I
 
 
 
+
 <br><br>
 
 ## (2) The Learning Priority Checklist
@@ -76,6 +77,7 @@ This checklist is meant to help with understanding where your focus should be as
 ### 5) **Work on Unit Control, try to fight often without losing much**
 - Pay attention to your units, you don't want them staring into space while they die, perhaps you can catch your oponent's units staring into space instead, or catch one slightly out of position
 - Maybe your opponent has all their units in one spot and you can simply run around them - there is a lot of potential if you have radar and can see where your opponent's units are
+
 
 
 
