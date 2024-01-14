@@ -30,7 +30,7 @@
 - **Branch** - A place to make edits, has a more Convergent workflow
 - **Fork** - Another place to make edits with a more divergent workflow in mind
 
-- Essentially, after creating an account, you either want to create a branch or a fork from the main repo, make your edits, then submit a PR.
+Essentially, after creating an account, you either want to create a branch or a fork from the main repo, make your edits, then submit a PR.
 
 [This is the official github tutorial](https://docs.github.com/en/get-started/quickstart/hello-world#creating-a-branch) <br>
 *NOTE: Many tutorials out there has you get started with using/syncing the desktop app, this one is more for getting started using only the website.*
