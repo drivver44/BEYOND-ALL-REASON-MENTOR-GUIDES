@@ -37,10 +37,10 @@ Essentially, when a unit is hit, the direction of the hit becomes the frontal fl
 
 https://github.com/Zete0/Mentor-Guides/assets/47950648/b1aa43bb-d87a-418f-94d7-f8fe427cfe2f
 
-*Here, the centurion is hit by the thug first, placing the indicator towards the thug, then, rapidly hit by a grunt in the back. The grunt is dealing bonus damage and the indicator slowly moves towards the grunt. Since it's attacking quickly, it moves slowly. Then the grunt moves away and the thug, with it's slower attack, moves the indicator in big chunks each time it's shot lands*.
+*Here, the centurion is hit by the thug first, placing the indicator towards the thug, then, rapidly hit by a grunt in the back. The grunt is dealing bonus damage and the indicator slowly moves towards the grunt. Since it's attacking quickly, it moves slowly. As it moves towards the grunt, the grunt's attack recieves less of a bonus while the thug's attack bonus increases. The grunt then moves away and the thug, with it's slower attack, moves the indicator in big chunks each time it's shot lands*.
 
 ### 3D Flanking Bonus
-- The display for the flanking directions is represented in 2D, but the actual direction is 3 dimentional, so a unit's frontal flanking direction can be pointed towards the sky if that unit takes damage from above.
+- The display for the flanking directions is represented in 2D, but the actual direction is 3 dimention al, so a unit's frontal flanking direction can be pointed towards the sky if that unit takes damage from above.
 
 ### What this Means for Gameplay
 
