@@ -45,4 +45,5 @@ Essentially, after creating an account, you either want to create a branch or a 
     https://markdownguide.offshoot.io/extended-syntax/ <br>
     https://daringfireball.net/projects/markdown/syntax#p <br>
 
-    [And Here's the start of the Github tutorial for writing](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+<br>
+[And Here's the start of the Github tutorial for writing](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
