@@ -21,22 +21,23 @@ Essentially, when a unit is hit, the direction of the hit becomes the frontal fl
 
 ### Back Indicator
 - There is also a 'Back' direction indicator, represented by this red partial circle.
-- This indicates the back flank direction, where the unit will receive 200% damage.
+- This indicates the full flank direction, where the unit will receive 200% damage.
 
 ![Flanking - Back Indicator](https://github.com/Zete0/Mentor-Guides/assets/47950648/062e8d46-2366-458e-8271-3796541794ce)
 
 ### Hit From the Side
-- When a unit is hit from the side, the flanking damage modifier depepends on the angle. If hit from 90° from the frontal flank, it'll receive 150% damage.
+- When a unit is hit from the side, the flanking damage modifier depepends on the angle. If hit from 90° from the flank, it'll receive 150% damage.
 
 ![Flanking - Side](https://github.com/Zete0/Mentor-Guides/assets/47950648/c4f96ee2-094a-4626-a2a6-e822b079e4b2)
 
 ## How it Works
 - When a unit gets hit, it receives a flank direction if it doesn't already have one, towards the direction of the hit.
-- Each hit after the first recieves bonus damage, depending on the angle of attack compared to the flank direction (200% if hit from directly behind).
+- Each hit after the first recieves bonus damage, the closer it is to the back, the more bonus damage there is *(200% if hit from directly behind, where the red bar is)*.
 - The flank direction then adjusts and moves towards the new hit - the amount it moves depends on how long it's been since the last hit.
 
 https://github.com/Zete0/Mentor-Guides/assets/47950648/b1aa43bb-d87a-418f-94d7-f8fe427cfe2f
 
+*Here, the centurion is hit by the thug first, placing the indicator towards the thug, then, rapidly hit by a grunt in the back. The grunt is dealing bonus damage and the indicator slowly moves towards the grunt. Since it's attacking quickly, it moves slowly. Then the grunt moves away and the thug, with it's slower attack, moves the indicator in big chunks each time it's shot lands*.
 
 ### 3D Flanking Bonus
 - The display for the flanking directions is represented in 2D, but the actual direction is 3 dimentional, so a unit's frontal flanking direction can be pointed towards the sky if that unit takes damage from above.
@@ -47,8 +48,7 @@ https://github.com/Zete0/Mentor-Guides/assets/47950648/b1aa43bb-d87a-418f-94d7-f
 - Running around units can increase damage output and kill that unit quicker
 - Hiting with a lesser unit in one direction before a big unit hits in a second will increase the damage of the big unit significantly
 
-
-
+[comment]: <> (I also want to insert a video here to demonstrate the differences)
 
 
 
