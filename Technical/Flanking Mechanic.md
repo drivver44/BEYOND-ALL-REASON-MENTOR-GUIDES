@@ -35,9 +35,8 @@ Essentially, when a unit is hit, the direction of the hit becomes the frontal fl
 - Each hit after the first recieves bonus damage, depending on the angle of attack compared to the flank direction (200% if hit from directly behind).
 - The flank direction then adjusts and moves towards the new hit - the amount it moves depends on how long it's been since the last hit.
 
-https://github.com/Zete0/Mentor-Guides/assets/47950648/4bafb898-12f7-4dc3-85bc-de4fecaa06a6
+https://github.com/Zete0/Mentor-Guides/assets/47950648/b1aa43bb-d87a-418f-94d7-f8fe427cfe2f
 
-(Need new video that shows all that instead)
 
 ### 3D Flanking Bonus
 - The display for the flanking directions is represented in 2D, but the actual direction is 3 dimentional, so a unit's frontal flanking direction can be pointed towards the sky if that unit takes damage from above.
