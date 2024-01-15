@@ -59,7 +59,7 @@
 
 ### Balancing your economy means having enough metal, energy and build power to efficiently construct buildings and units
 
-**When an economy is unbalanced, construction slows down to the pace of the weakest link**
+**When an economy is unbalanced, construction slows down to the pace of the weakest resource**
 
 - When any resource is low, __all__ production is slowed and limited by the low resource
 - Balancing your economy well means fixing any and all resource issues as soon as possible to effectively gain/spend them, which ultimately allows you to build up more efficiently
