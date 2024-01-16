@@ -17,7 +17,7 @@
 ## Differences Coming from Ground
 
 - Air is very E heavy compared to other units, so keep an eye on your E, it can drain faster than expected, so expect to need to build more energy.
-- Air Constructors aren't terribly efficient, they take a lot longer to build and tons of E to make. It is common in higher levels for an air player to either start with a bot lab for bot cons, buy a bot con from an ally (especially if you can buy an off-faction con), or trade a bot con for a transport.
+- Air Constructors aren't terribly efficient, they take a lot longer to build and tons of E to make. It is common in higher levels for an air player to either start with a bot lab for bot cons, or buy a bot con from an ally (especially if you can buy an off-faction con), or trade a bot con for a transport.
 - Early on, since air units cost a lot of build time, it's not advised to walk your commander to grab mexes and waste that valuable build power. Instead, buy/build a ground con to grab them, or use a transport to move your commander around and grab those mexes faster. It's important to not slow yourself down with a lot of travel time when a transport is so easily available.
 - Usually air players play cortex since shurikens can be extremely valuable in stopping leaks/run-bys or aiding a push. The banshee, armada's counterpart, doesn't have the same utility. It takes a while to slowly kill any leaks.
 
