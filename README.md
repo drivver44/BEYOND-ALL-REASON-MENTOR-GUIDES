@@ -4,12 +4,18 @@
 
 
 ### Guidelines
-1) Be as Concise as possible while also speaking in a language anyone can understand
+
+**If you're putting something together, it helps to formulate it how you think about it. It doesn't have to be perfect, we can edit it later.**
+Personally, I think outlining it first and breaking it down into smaller bits after helps. It keeps me on track and I find it easier to 
+
+#### For Finishing a Guides:
+1) Try to explain the subject matter fully, while being as concise as possible while also speaking in a language anyone can understand
 2) Starter guides should be as short as possible. The more advanced the guide, the more detailed it can be. If there is a technical guide on the subject, please reference it so the player has somewhere to look if they want a deeper explanation
-3) For technical guides, try to explain the entire inner workings of the subject
+3) For technical guides, try to explain the entire inner workings of the subject, including specific numbers and formulas *(I have a spreadsheet for eco stuff in the works that I wouldn't mind having others work on as well)*
 4) Verify your information! I find myself opening a single player game up to test conditions just to be sure I'm not providing false information
 5) Double verify - Ideally, we check each other's work and make sure it's correct
-6) Try not to ramble, anecdotes can be fun, but should be short
+6) Try not to ramble, anecdotes can be fun and keep people interested, but shouldn't be super long
+7) Each folder has a readme attached for more specific details for those guides
 
 
 ### Formatting / Workflow
