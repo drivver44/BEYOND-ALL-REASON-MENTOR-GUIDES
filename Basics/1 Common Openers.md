@@ -48,10 +48,11 @@
 
 
 
-#### Adding Low Wind into the Equasion
+#### Adding Medium Wind into the Equasion
 
-- On maps with lower wind, wind is still a good option, but purely building only wind early on will take a while to build
-- When wind is lower, it is advised to open with at least one solar to help you get started
+- On maps with medium wind *(8-12 avg)*, wind is a good option, but purely building only wind early on will take a while to build
+       *(wind becomes more time efficient than solar around 12 avg)*
+- With medium wind, it is advised to open with at least one solar to help you get started, especially when the minimum wind is low *(below 5)*
 - Here, since we're still opening with a solar, we can still start with 3 mexes
 - NOTE: This opening can vary a lot depending on the actual current wind speed. See below for advice on variations
 
@@ -65,10 +66,10 @@
 | 6 | 2 Wind | Assist Lab | Assist Lab |
 | 7 | Assist Lab |  |  |
 
-#### Adding High Wind into the Equasion
+#### Adding Higher Wind into the Equasion
 
-- Some maps have very strong wind and we do not need any solar at all
-- Here, since we're opening wind, we should add a wind between a 2nd and 3rd mex. If we do not, we will stall on energy when building the wind turbine.
+- Some maps have very strong wind and we do not need any solar at all *(This is especially true if minimum wind is higher)*
+- Here, since we're opening wind, we should add a wind between a 2nd and 3rd mex. If we do not, we will stall on energy when building the wind turbine
   *(exceptions exist if the commander needs to walk to grab metal nodes)*
 
 | | **4 Metal Node Example** | **3 Metal Node Example** | **2 Metal Node Example** |
@@ -87,14 +88,19 @@
 
 - On many maps, wind can vary greatly. Sometimes it is quite good, and other times quite bad.
 - For that reason, these "builds" are not set in stone. Feel free to change your plans, BAR is all about adaptation
+       *Even if wind average is high, it can start quite low, in which case adapting to that with a solar instead is very reasonable, you can always reclaim that solar back for a 100% return on your metal*
 
 ## After the lab is finished
 - We want our commander to assist the lab whenever possible to pump out more build power to help get your base started
 - As soon as energy drops lower, add on more energy production to prevent E stalling
 - As you get used to these mechanics, it is wise to try to anticipate what you'll need and when - but this takes time, be patient. Rome wasn't built in a day.
+- With your energy / metal in good order, you now have some choices depending on if you want to open more economically with constructors or get some early units out and try to apply pressure. Smaller distances to your opponent lends itself to more aggressive play.
 
 
+## Early Units
+- The first few units out of a lab are often scouts since scouting gets you more information to make better choices. All scouts are cheap and come with a very light laser that can be used to take out enemy scouts or find ways to do bits of early game damage
+- Even with a more aggressive opener, you should always want at least two constructors at some point if you plan to have much of anything later on. The wider the area you need to control and the more metal nodes there are, the more it makes sense to get extra constructors. *(to help build those nodes, defenses and radar)*
+- Early units should include faster units to help control territory quickly *(such as pawn/grunts/incisors/blitz)* and to help shutdown any forward enemy units. Slower units tend to be better in fights, but have a hard time catching up to anything fast.
 
-
-
+#### Next, Check out [Controlling Space](https://github.com/Zete0/Mentor-Guides/blob/main/Basics/2%20Controlling%20Space.md) to continue on
 

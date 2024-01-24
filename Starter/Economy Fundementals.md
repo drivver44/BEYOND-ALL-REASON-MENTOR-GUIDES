@@ -1,4 +1,4 @@
-[BP]: https://github.com/Zete0/Guides/blob/main/Starter/Basic%20Economy.md#build-power
+[BP]: https://github.com/Zete0/Mentor-Guides/blob/main/Starter/Economy%20Fundementals.md#build-power
 
 # Economy Fundementals 
 <sup><sup>(Author: Zeteo)</sup></sup>
@@ -59,7 +59,7 @@
 
 ### Balancing your economy means having enough metal, energy and build power to efficiently construct buildings and units
 
-**When an economy is unbalanced, construction slows down to the pace of the weakest link**
+**When an economy is unbalanced, construction slows down to the pace of the weakest resource**
 
 - When any resource is low, __all__ production is slowed and limited by the low resource
 - Balancing your economy well means fixing any and all resource issues as soon as possible to effectively gain/spend them, which ultimately allows you to build up more efficiently
@@ -110,7 +110,7 @@
 
 
 
-### [Click here for a Guide to Basic Openers](https://github.com/Zete0/Guides/blob/main/Basics/1%20Basic%20Openers.md)
+### [Click here for a Guide to Basic Openers](https://github.com/Zete0/Mentor-Guides/blob/main/Basics/1%20Common%20Openers.md)
 
 
 
