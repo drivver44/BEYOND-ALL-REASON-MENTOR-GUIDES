@@ -110,10 +110,10 @@
 ### Old Name References
 ----
 Sometimes people reference the old names of units being used, such as: <br>
-AK (grunt) <br>
-Peewee (pawn) <br>
-Flee (tick) <br>
-Fido (hound) <br>
-Pyro (fiend) <br>
-Morty (sheldon) <br>
+**AK** - *(grunt)* <br>
+**Peewee** - *(pawn)* <br>
+**Flee** - *(tick)* <br>
+**Fido** - *(hound)* <br>
+**Pyro** - *(fiend)* <br>
+**Morty** - *(sheldon)* <br>
 ect, ect, ect, ect <br>
