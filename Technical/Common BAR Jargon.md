@@ -34,6 +34,7 @@
 -----
 **Techer** - *Player who, on some maps, is designated to fast tech to tier 2 for other players to buy a T2 constructor from* <br>
 **Tech Spot** - *Spot designated for the techer (not all maps have a dedicated techer)* <br>
+**Air Player** - *The player designated to be the main player that builds air defensively or offensively)* <br>
 **Air Spot** - *Spot designated for the air player (not all maps have a dedicated air player)* <br>
 **Eco Spot** - *Spot designated for someone to hard eco (very few maps actually have this position, all others are actually tech spots)* <br>
 **Flex Spot** - *Spot designated for someone to adapt to the team's current needs* <br>
@@ -41,10 +42,10 @@
 **Front / Frontline** - *Player playing in a front position who should focus on making units* <br>
 **Back / Backline** - *Player playing a back position (tech, air, eco or flex)* <br>
 **Role-Map** - *Maps that heavily break down positions into the above roles* <br>
-**Lane-Map** - *Maps that do not have the usual "spots", where everyone needs to more or less play as a frontliner* <br>
+**Lane-Map** - *Maps where everyone needs to play as a frontliner or be easily destroyed* <br>
 <br>
-**Strong-side** - *A position on a map where you generally have **more** resources to work with compared to the person you're fighting* <br>
-**Weak-side** - *A position on a map where you generally have **less** resources to work with compared to the person you're fighting* <br>
+**Strong-side** - *A position on a map where you generally have **MORE** resources to work with compared to the person you're fighting* <br>
+**Weak-side** - *A position on a map where you generally have **LESS** resources to work with compared to the person you're fighting* <br>
 
 <br>
 
@@ -116,4 +117,6 @@ Sometimes people reference the old names of units being used, such as: <br>
 **Fido** - *(hound)* <br>
 **Pyro** - *(fiend)* <br>
 **Morty** - *(sheldon)* <br>
+**Gator or instigator** - *(incisor) <br>
+**Flash** - *(blitz)* <br>
 ect, ect, ect, ect <br>
