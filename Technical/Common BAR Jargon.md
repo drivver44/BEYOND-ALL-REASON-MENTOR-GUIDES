@@ -14,8 +14,9 @@
 **Geo** - *Geothermal Vent / Powerplant* <br>
 **Mstor** - *Metal Storage* <br>
 **Estor** - *Energy Storage* <br>
-<br>
 
+
+<br>
 ### Player Jargon
 -----
 **Eco** - *Refers to building up one's economy* <br>
@@ -26,8 +27,9 @@
 <br>
 **Cooked** - *Usually refers to a player that's dying/died* <br>
 **Cooking** - *Usually refers to a player that's getting ready to cook someone* <br>
-<br>
 
+
+<br>
 ### Positions
 -----
 **Techer** - *Player who, on some maps, is designated to fast tech to tier 2 for other players to buy a T2 constructor from* <br>
@@ -45,7 +47,7 @@
 **Weak-side** - *A position on a map where you generally have **less** resources to work with compared to the person you're fighting* <br>
 
 
-
+<br>
 ### Unit Types
 -----
 **Scouts** - *Extremely fast / cheap units that have extra LOS* <br>
@@ -73,8 +75,9 @@
 **YeeHaws** - *Gunslingers* <br>
 **GunShits** - *Gunships that do very little damage (Banshee)* <br>
 **Behe** - *Behemoth* <br>
-<br>
 
+
+<br>
 ### Tech Tiers
 -----
 **T1** - *Tier 1* <br>
@@ -83,13 +86,15 @@
 **T2.5** - *Extra strong/expensive T2 units that usually fair well against T3 units* <br>
 **T3** - *Tier 3 experimental units built from the experimental gantry* <br>
 **T3.5** - *Extra expensive T3 experimental units or expensive late game (LOLCannons, Juggernaut, Titan, Behemoth)* <br>
-<br>
 
+
+<br>
 ### Teamwork
 ----
 **Slinging** - *The act of using most/all resources to propel a player forward either economically or boosting a factory* <br>
 **Co-op** - *Sometimes also called 'communism', the act of pooling resources together as a team in order to build less infrustructure/factories* <br>
 **OS** - *OpenSkill - the rating system used in BAR (sometimes people say 'TS' accidently refering to the old system)* <br>
+
 
 <br>
 ### Actions
@@ -99,13 +104,14 @@
 **Com Bomb** - *Intentionally moving a commander into a position to blow up*
 **Hug** - *Intentionally com-bombing a commander*
 
+
 <br>
 ### Miscellaneous
 ----
-
 **Noob Trap** - *Units that seem like a good idea in a lot of cases that end up getting over-built but are actually very specilized and should rarely be built* <br>
-<br>
 
+
+<br>
 ### Old Name References
 ----
 Sometimes people reference the old names of units being used, such as: <br>
