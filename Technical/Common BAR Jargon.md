@@ -39,10 +39,10 @@
 **Front / Frontline** - *Player playing in a front position who should focus on making units* <br>
 **Back / Backline** - *Player playing a back position (tech, air, eco or flex)* <br>
 **Role-Map** - *Maps that heavily break down positions into the above roles* <br>
-**Lane Map** - *Maps that do not have the usual "spots", where everyone needs to more or less play as a frontliner* <br>
+**Lane-Map** - *Maps that do not have the usual "spots", where everyone needs to more or less play as a frontliner* <br>
 <br>
-**Strongside** - *A position on a map where you generally have **more** resources to work with compared to the person you're fighting* <br>
-**Weakside** - *A position on a map where you generally have **less** resources to work with compared to the person you're fighting* <br>
+**Strong-side** - *A position on a map where you generally have **more** resources to work with compared to the person you're fighting* <br>
+**Weak-side** - *A position on a map where you generally have **less** resources to work with compared to the person you're fighting* <br>
 
 
 
@@ -95,6 +95,7 @@
 ----
 **Eat** - *The act of reclaiming something* <br>
 **Food** - *Something that should be reclaimed or ressurected* <br>
+**Noob Trap** - *Units that seem like a good idea in a lot of cases that end up getting over-built but are actually very specilized and should rarely be built* <br>
 <br>
 
 ### Old Name References
