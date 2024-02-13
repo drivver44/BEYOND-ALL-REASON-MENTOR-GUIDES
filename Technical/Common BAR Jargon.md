@@ -60,6 +60,7 @@
 <br>
 **Rezers or Rezbots** - *Ressurection bots* <br>
 **Arty** - *Artillery* <br>
+**Figs** - *Fighters (as in air superiority aircraft)*
 **AA** - *Anti Air* <br>
 **Pop-up** - *Defenses that gain extra hp when not attacking* <br>
 <br>
