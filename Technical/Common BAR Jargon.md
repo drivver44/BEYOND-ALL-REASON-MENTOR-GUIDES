@@ -83,9 +83,9 @@
 
 ### Tech Tiers
 -----
-**T1** - *Tier 1* <br>
+**T1** - *Tier 1 units* <br>
 **T1.5** - *Tier 1 buildings that cannot be built from the commander, sometimes also refers to extra strong/expensive T1 units* <br>
-**T2** - *Tier 2* <br>
+**T2** - *Tier 2 units* <br>
 **T2.5** - *Extra strong/expensive T2 units that usually fair well against T3 units* <br>
 **T3** - *Tier 3 experimental units built from the experimental gantry* <br>
 **T3.5** - *Extra expensive T3 experimental units or expensive late game (LOLCannons, Juggernaut, Titan, Behemoth)* <br>
@@ -102,6 +102,7 @@
 
 ### Miscellaneous
 ----
+**Units** - *In BAR, can include static buildings as well as mobile stuff*
 **Eat** - *The act of reclaiming something* <br>
 **Food** - *Something that should be reclaimed or ressurected* <br>
 **Com Bomb** - *Intentionally moving a commander into a position to blow up* <br>
