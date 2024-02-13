@@ -117,6 +117,6 @@ Sometimes people reference the old names of units being used, such as: <br>
 **Fido** - *(hound)* <br>
 **Pyro** - *(fiend)* <br>
 **Morty** - *(sheldon)* <br>
-**Gator or instigator** - *(incisor) <br>
+**Gator or instigator** - *(incisor)* <br>
 **Flash** - *(blitz)* <br>
 ect, ect, ect, ect <br>
