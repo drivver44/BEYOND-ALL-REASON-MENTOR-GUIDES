@@ -64,7 +64,7 @@
 <br>
 **Rezers or Rezbots** - *Ressurection bots* <br>
 **Rockets / rocket men** - *Rocket bots (rocketeer, aggrovator)* <br>
-**Arty** - *Artillery* <br>
+**Arty** - *Artillery (usually the mobile version)* <br>
 **Figs** - *Fighters (as in air superiority aircraft)*
 **Trans** - *Air Transport*
 **AA** - *Anti Air* <br>
