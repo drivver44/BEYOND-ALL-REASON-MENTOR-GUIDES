@@ -48,6 +48,11 @@
 
 ### Unit Types
 -----
+**Scouts** - *Extremely fast / cheap units that have extra LOS* <br>
+**Raiders** - *Faster, quality dps units that do well with raiding* <br>
+**Skirmishers** - *Units that fair well when attacking from a distance, usually requiring in/out micro* <br>
+**Assault Units** - *Units that fair well doing a full on attack* <br>
+<br>
 **Porc** - *Porcupine, refers to static defenses* <br>
 **LLT** - *Light Laser Turret (sentry, guard)* <br>
 **MLT** - *Medium Laser Turret (beamer, twin guard)* <br>
@@ -57,10 +62,6 @@
 **Arty** - *Artillery* <br>
 **AA** - *Anti Air* <br>
 **Pop-up** - *Defenses that gain extra hp when not attacking* <br>
-**Scouts** - *Extremely fast / cheap units that have extra LOS* <br>
-**Raiders** - *Faster, quality dps units that do well with raiding* <br>
-**Skirmishers** - *Units that fair well when attacking from a distance, usually requiring in/out micro* <br>
-**Assault Units** - *Units that fair well doing a full on attack* <br>
 <br>
 **AN or Anti** - *Anti-Nuke* <br>
 **LRPC** - *Long Range Plasma Cannon (Basilica, Basilisk)* <br>
@@ -69,6 +70,7 @@
 <br>
 **YeeHaws** - *Gunslingers* <br>
 **GunShits** - *Gunships that do very little damage (Banshee)*
+**Behe** - *Behemoth*
 <br>
 
 ### Tech Tiers
@@ -78,6 +80,26 @@
 **T2** - *Tier 2* <br>
 **T2.5** - *Extra strong/expensive T2 units that usually fair well against T3 units* <br>
 **T3** - *Tier 3 experimental units built from the experimental gantry* <br>
-**T3.5** - *Extra expensive T3 experimental units*
+**T3.5** - *Extra expensive T3 experimental units or expensive late game (LOLCannons, Juggernaut, Titan, Behemoth)*
 
+### Teamwork
+----
+**Slinging** - *The act of using most/all resources to propel a player forward either economically or boosting a factory*
+**Co-op** - *Sometimes also called 'communism', the act of pooling resources together as a team in order to build less infrustructure/factories*
+**OS** - *OpenSkill - the rating system used in BAR (sometimes people say 'TS' accidently refering to the old system)*
 
+<br>
+### Miscellaneous
+----
+**Eat** - *The act of reclaiming something*
+**Food** - *Something that should be reclaimed or ressurected*
+
+### Old Name References
+----
+Sometimes people reference the old names of units being used, such as: <br>
+AK (grunt) <br>
+Peewee (pawn) <br>
+Flee (tick) <br>
+Fido (hound) <br>
+Pyro (fiend) <br>
+ect, ect, ect, ect <br>
