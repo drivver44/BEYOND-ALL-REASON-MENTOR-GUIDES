@@ -25,7 +25,7 @@
 **Lobster** - *Usually refers to players who have a general understanding of the game, but often get cooked by seasoned veterans* <br>
 **Lobster Pot** - *The battle grounds in which lobsters duke it out* <br>
 <br>
-**Cooked** - *Usually refers to a player that's dying/died* <br>
+**Cooked** - *Usually refers to a player that was destroyed easily (may or may not be their own fault)* <br>
 **Cooking** - *Usually refers to a player that's getting ready to cook someone* <br>
 
 <br>
