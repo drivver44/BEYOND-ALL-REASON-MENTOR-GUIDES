@@ -61,6 +61,7 @@
 **Rezers or Rezbots** - *Ressurection bots* <br>
 **Arty** - *Artillery* <br>
 **Figs** - *Fighters (as in air superiority aircraft)*
+**Trans** - *Air Transport*
 **AA** - *Anti Air* <br>
 **Pop-up** - *Defenses that gain extra hp when not attacking* <br>
 <br>
@@ -91,10 +92,17 @@
 **OS** - *OpenSkill - the rating system used in BAR (sometimes people say 'TS' accidently refering to the old system)* <br>
 
 <br>
-### Miscellaneous
+### Actions
 ----
 **Eat** - *The act of reclaiming something* <br>
 **Food** - *Something that should be reclaimed or ressurected* <br>
+**Com Bomb** - *Intentionally moving a commander into a position to blow up*
+**Hug** - *Intentionally com-bombing a commander*
+
+<br>
+### Miscellaneous
+----
+
 **Noob Trap** - *Units that seem like a good idea in a lot of cases that end up getting over-built but are actually very specilized and should rarely be built* <br>
 <br>
 
