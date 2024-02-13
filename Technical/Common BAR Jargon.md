@@ -38,7 +38,7 @@
 **Air Player** - *The player designated to be the main player that builds air defensively or offensively)* <br>
 **Air Spot** - *Spot designated for the air player (not all maps have a dedicated air player)* <br>
 **Eco Spot** - *Spot designated for someone to hard eco (very few maps actually have this position, all others are actually tech spots)* <br>
-**Flex Spot** - *Spot designated for someone to adapt to the team's current needs* <br>
+**Flex Spot** - *Spot designated for someone to adapt to the team's current needs (usually having to build units and assisting the fight where needed)* <br>
 <br>
 **Front / Frontline** - *Player playing in a front position who should focus on making units* <br>
 **Back / Backline** - *Player playing a back position (tech, air, eco or flex)* <br>
