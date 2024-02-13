@@ -11,41 +11,64 @@
 **Nano** - *Construction turret, they used to be called nanos, short for nanolator* <br>
 **Con T or CT** - *Short for Construction Turret* <br>
 **AFUS** - *Advanced Fusion Reactor* <br>
+**Geo** - *Geothermal Vent / Powerplant* <br>
+**Mstor** - *Metal Storage* <br>
+**Estor** - *Energy Storage* <br>
  <br>
 
 ### Player Jargon
 -----
 **Eco** - *Refers to building up one's economy* <br>
-**Techer** - *Player who, on some maps, is designated to fast tech to tier 2 for other players to buy a T2 constructor from* <br>
-**Tech Spot** - *Spot designated for the techer (not all maps have a dedicated techer)* <br>
-**Air Spot** - *Spot designated for the air player (not all maps have a dedicated air player)* <br>
-**Eco Spot** - *Spot designated for someone to hard eco (very few maps actually have this position, all others are actually tech spots)* <br>
-<br>
+
 **Shrimp** - *Usually refers to newer / lower OS players who are still learning the basics* <br>
 **Lobster** - *Usually refers to players who have a general understanding of the game, but often get cooked by seasoned veterans* <br>
-**Lobster Pot** - *The battle grounds in which lobsters duke it out*
+**Lobster Pot** - *The battle grounds in which lobsters duke it out* <br>
 <br>
 **Cooked** - *Usually refers to a player that's dying/died* <br>
 **Cooking** - *Usually refers to a player that's getting ready to cook someone* <br>
 
+### Positions
+-----
+
+**Techer** - *Player who, on some maps, is designated to fast tech to tier 2 for other players to buy a T2 constructor from* <br>
+**Tech Spot** - *Spot designated for the techer (not all maps have a dedicated techer)* <br>
+**Air Spot** - *Spot designated for the air player (not all maps have a dedicated air player)* <br>
+**Eco Spot** - *Spot designated for someone to hard eco (very few maps actually have this position, all others are actually tech spots)* <br>
+**Flex Spot** - *Spot designated for someone to adapt to the team's current needs* <br>
+<br>
+**Front / Frontline** - *Player playing in a front position who should focus on making units* <br>
+**Back / Backline** - *Player playing a back position (tech, air, eco or flex)* <br>
+**Role-Map** - *Maps that heavily break down positions into the above roles* <br>
+**Lane Map** - *Maps that do not have the usual "spots", where everyone needs to more or less play as a frontliner* <br>
+<br>
+**Strongside** - *A position on a map where you generally have **more** resources to work with compared to the person you're fighting* <br>
+**Weakside** - *A position on a map where you generally have **less** resources to work with compared to the person you're fighting* <br>
+
+
+
 ### Unit Types
 -----
+**Porc** - *Porcupine, refers to static defenses* <br>
 **LLT** - *Light Laser Turret (sentry, guard)* <br>
 **MLT** - *Medium Laser Turret (beamer, twin guard)* <br>
 **HLT** - *Heavy Laser Turret (gauntlet, agitator)* <br>
 <br>
+**Rezers or Rezbots** - *Ressurection bots*
 **Arty** - *Artillery* <br>
-**Scouts** - *Extremely fast / cheap units that have extra LOS*
-**Raiders** - *Faster, quality dps units that do well with raiding*
-**Skirmishers** - *Units that fair well when attacking from a distance, usually requiring in/out micro*
-**Assault Units** - *Units that fair well doing a full on attack*
+**AA** - *Anti Air* <br>
+**Pop-up** - *Defenses that gain extra hp when not attacking* <br>
+**Scouts** - *Extremely fast / cheap units that have extra LOS* <br>
+**Raiders** - *Faster, quality dps units that do well with raiding* <br>
+**Skirmishers** - *Units that fair well when attacking from a distance, usually requiring in/out micro* <br>
+**Assault Units** - *Units that fair well doing a full on attack* <br>
 <br>
-**AN** - *Anti-Nuke* <br>
+**AN or Anti** - *Anti-Nuke* <br>
 **LRPC** - *Long Range Plasma Cannon (Basilica, Basilisk)* <br>
 **LOLCannon** - *Rapid-Fire Long Range Plasma Cannon (Ragnarok, Calamity)* <br>
 **Shield** - *Plasma Deflectors (Keeper, Overseer)* <br>
 <br>
 **YeeHaws** - *Gunslingers* <br>
+**GunShits** - *Gunships that do very little damage (Banshee)*
 <br>
 
 ### Tech Tiers
@@ -55,3 +78,6 @@
 **T2** - *Tier 2* <br>
 **T2.5** - *Extra strong/expensive T2 units that usually fair well against T3 units* <br>
 **T3** - *Tier 3 experimental units built from the experimental gantry* <br>
+**T3.5** - *Extra expensive T3 experimental units*
+
+
