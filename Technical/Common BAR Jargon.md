@@ -14,7 +14,7 @@
 **Geo** - *Geothermal Vent / Powerplant* <br>
 **Mstor** - *Metal Storage* <br>
 **Estor** - *Energy Storage* <br>
- <br>
+<br>
 
 ### Player Jargon
 -----
@@ -26,10 +26,10 @@
 <br>
 **Cooked** - *Usually refers to a player that's dying/died* <br>
 **Cooking** - *Usually refers to a player that's getting ready to cook someone* <br>
+<br>
 
 ### Positions
 -----
-
 **Techer** - *Player who, on some maps, is designated to fast tech to tier 2 for other players to buy a T2 constructor from* <br>
 **Tech Spot** - *Spot designated for the techer (not all maps have a dedicated techer)* <br>
 **Air Spot** - *Spot designated for the air player (not all maps have a dedicated air player)* <br>
@@ -58,7 +58,7 @@
 **MLT** - *Medium Laser Turret (beamer, twin guard)* <br>
 **HLT** - *Heavy Laser Turret (gauntlet, agitator)* <br>
 <br>
-**Rezers or Rezbots** - *Ressurection bots*
+**Rezers or Rezbots** - *Ressurection bots* <br>
 **Arty** - *Artillery* <br>
 **AA** - *Anti Air* <br>
 **Pop-up** - *Defenses that gain extra hp when not attacking* <br>
@@ -69,8 +69,8 @@
 **Shield** - *Plasma Deflectors (Keeper, Overseer)* <br>
 <br>
 **YeeHaws** - *Gunslingers* <br>
-**GunShits** - *Gunships that do very little damage (Banshee)*
-**Behe** - *Behemoth*
+**GunShits** - *Gunships that do very little damage (Banshee)* <br>
+**Behe** - *Behemoth* <br>
 <br>
 
 ### Tech Tiers
@@ -80,19 +80,21 @@
 **T2** - *Tier 2* <br>
 **T2.5** - *Extra strong/expensive T2 units that usually fair well against T3 units* <br>
 **T3** - *Tier 3 experimental units built from the experimental gantry* <br>
-**T3.5** - *Extra expensive T3 experimental units or expensive late game (LOLCannons, Juggernaut, Titan, Behemoth)*
+**T3.5** - *Extra expensive T3 experimental units or expensive late game (LOLCannons, Juggernaut, Titan, Behemoth)* <br>
+<br>
 
 ### Teamwork
 ----
-**Slinging** - *The act of using most/all resources to propel a player forward either economically or boosting a factory*
-**Co-op** - *Sometimes also called 'communism', the act of pooling resources together as a team in order to build less infrustructure/factories*
-**OS** - *OpenSkill - the rating system used in BAR (sometimes people say 'TS' accidently refering to the old system)*
+**Slinging** - *The act of using most/all resources to propel a player forward either economically or boosting a factory* <br>
+**Co-op** - *Sometimes also called 'communism', the act of pooling resources together as a team in order to build less infrustructure/factories* <br>
+**OS** - *OpenSkill - the rating system used in BAR (sometimes people say 'TS' accidently refering to the old system)* <br>
 
 <br>
 ### Miscellaneous
 ----
-**Eat** - *The act of reclaiming something*
-**Food** - *Something that should be reclaimed or ressurected*
+**Eat** - *The act of reclaiming something* <br>
+**Food** - *Something that should be reclaimed or ressurected* <br>
+<br>
 
 ### Old Name References
 ----
