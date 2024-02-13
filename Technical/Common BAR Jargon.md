@@ -7,6 +7,7 @@
 **BSolar** - *Basic Solar Collector* <br>
 **ASolar** - *Advanced Solar Collector* <br>
 **BP** - *Build Power* <br>
+**BT** - *Build Time* <br>
 **Con** - *Constructor* <br>
 **Nano** - *Construction turret, they used to be called nanos, short for nanolator* <br>
 **Con T or CT** - *Short for Construction Turret* <br>
@@ -62,6 +63,7 @@
 **HLT** - *Heavy Laser Turret (gauntlet, agitator)* <br>
 <br>
 **Rezers or Rezbots** - *Ressurection bots* <br>
+**Rockets / rocket men** - *Rocket bots (rocketeer, aggrovator)* <br>
 **Arty** - *Artillery* <br>
 **Figs** - *Fighters (as in air superiority aircraft)*
 **Trans** - *Air Transport*
@@ -102,8 +104,9 @@
 ----
 **Eat** - *The act of reclaiming something* <br>
 **Food** - *Something that should be reclaimed or ressurected* <br>
-**Com Bomb** - *Intentionally moving a commander into a position to blow up*
-**Hug** - *Intentionally com-bombing a commander*
+**Com Bomb** - *Intentionally moving a commander into a position to blow up* <br>
+**Hug** - *Intentionally com-bombing a commander* <br>
+<br>
 **Noob Trap** - *Units that seem like a good idea in a lot of cases that end up getting over-built but are actually very specilized and should rarely be built* <br>
 
 <br>
@@ -119,4 +122,6 @@ Sometimes people reference the old names of units being used, such as: <br>
 **Morty** - *(sheldon)* <br>
 **Gator or instigator** - *(incisor)* <br>
 **Flash** - *(blitz)* <br>
+**Guardian** - *(gauntlet)* <br>
+**Punisher** - *(Agitator)* <br>
 ect, ect, ect, ect <br>
