@@ -8,7 +8,7 @@ Widgets are part of the core building blocks of BAR and handle many of the core 
 <br>
 
 - All widgets are written in lua and can be edited with a text editor
-- Widgets are usually disabled for tournament play
+- Widgets are always disabled for tournament play
 <br>
 
 ## Installation
