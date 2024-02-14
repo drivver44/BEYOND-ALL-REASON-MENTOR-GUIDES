@@ -18,7 +18,7 @@ This should be focused on first before anything else, oftentimes other issues ca
 ### 2) Add on **Energy [E]** as you build more mexes so that you have energy to spend that metal, and so you never run out
 Running out of E is bad because it not only slows down production, but also turns off critical infrastructure
   > - *(Mexes and some weapons require energy to function)*
-  > - *(Ideally not over spending either, but I wouldn't worry about that too much right now)*
+  > - *(Ideally not over spending on energy either, but I wouldn't worry about that right now - the much more common issue is not building enough)*
 
 ### 3) If your metal starts going up and you have sufficient energy, add on small bits of **Build Power [bp]** to assist your factory
   > - *(At first this should be your commander alternating between assisting the factory and building E when you run low in order to work up a few constructors to help grab mexes, build energy and assist the factory. While making those constructors, you may want some fighting units too, so the timing will vary) (The number of fighting units you want should differ between maps, more on that later)*
