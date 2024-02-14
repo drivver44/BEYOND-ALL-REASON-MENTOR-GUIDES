@@ -1,5 +1,3 @@
-NOTE: This is formated for discord
-
 # New to Beyond All Reason?
 <sup><sup>(Author: Zeteo)</sup></sup>
 
@@ -17,17 +15,17 @@ Here is some basic info to get you started as these guides are still a work in p
 
 ## General Information
 
-[**Guides Home**](https://www.beyondallreason.info/guides)
-[**Advanced Mechanics**](https://www.beyondallreason.info/guide/important-knowledge-on-advanced-mechanics)
+[**Guides Home**](https://www.beyondallreason.info/guides) &nbsp;&nbsp;&nbsp;
+[**Advanced Mechanics**](https://www.beyondallreason.info/guide/important-knowledge-on-advanced-mechanics) &nbsp;&nbsp;&nbsp;
 [**Interactive Commands**](https://www.beyondallreason.info/commands-20)
 
-[**Short Tips and Tricks**](https://www.youtube.com/watch?v=68rIRKXO3us&ab_channel=UncomfortableGameShorts)
-[**Basic Video Guides**](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8)
-[**Video Scenario Guides**](https://www.youtube.com/playlist?list=PL9ijWAhxNikIYl_gZOyW5ri9uBU60UyZY)
+[**Short Tips and Tricks**](https://www.youtube.com/watch?v=68rIRKXO3us&ab_channel=UncomfortableGameShorts) &nbsp;&nbsp;&nbsp;
+[**Basic Video Guides**](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8) &nbsp;&nbsp;&nbsp;
+[**Video Scenario Guides**](https://www.youtube.com/playlist?list=PL9ijWAhxNikIYl_gZOyW5ri9uBU60UyZY) &nbsp;&nbsp;&nbsp;
 
 ## Have questions about the game? Ask a Mentor!
 
-Within the Discord, feel free to ask any question you may have in the [Academy-Chat Channel](https://discord.com/channels/549281623154229250/1090730219356307496). Fellow players and **Mentors** will answer your questions, free of judgement.
+Within the Discord, feel free to ask any question you may have in the [#Academy-Chat Channel](https://discord.com/channels/549281623154229250/1090730219356307496). Fellow players and **Mentors** will answer your questions, free of judgement.
 
 Mentors are experienced players with plenty of game knowledge who are willing to help new players learn the game. To become a mentor, they must pass a test to become certified, so you know you can trust their responses.
 
@@ -44,17 +42,15 @@ Mentors have a Mentor badge that looks like this: ![image](https://github.com/Ze
 ### **There is also a lot of Youtube Content**
 **Here's a list of youtube channels provided by Mentors**
 
-[**MasterBel2**](https://www.youtube.com/@MasterBel2) - Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer
-[**lolsteamroller**](https://www.youtube.com/@lolsteamroller) - Another long time player, Top Tier Tournament Competator, loves to talk BAR economy
-[**Zeteo**](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) - Relatively newer player, but has a growing library of replay analysis full of detail
+[**Zeteo**](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) - Large library of game analysis from replays submitted (covers a wide variety of things<br>
+[**Volshok**](https://www.youtube.com/@Volshok-on5qy) - Volshok is known for his backline play and knows quite a bit about ecoing. This channel also has game analysis<br>
+[**BARCastTV**](https://www.youtube.com/@BARCastTV) - Well known in the 1v1 scene, channel has a lot of interviews with top tier players, tournaments, as well mentoring stuff, including 'Sunday At the Bar' episodes<br>
+<br>
+[**lolsteamroller**](https://www.youtube.com/@lolsteamroller) - Another long time player, Top Tier Tournament Competator, loves to talk BAR economy<br>
 [**Drivver**](https://www.youtube.com/@drivver4470) - Long time player, has some reviews on his channel, as well as other random quirky stuff
-
-
-### Non-Mentor Channels
-
-[**BARCastTV**](https://www.youtube.com/@BARCastTV) - Good 1v1 player, channel has a lot of interviews with top tier players and tournaments
-[**Raghna**](https://www.youtube.com/@raghna) - Raghna is one of the best BAR players, and has some old, but still useful starter content
-[**Wintergaming**](https://www.youtube.com/playlist?list=PLUG8Uhis3FKyXyHCwoqjZyEsr4-K2G37X) - Winter was quite new when he made these videos, but there is still some informational videos
+<br>
+[**Requiem** - Basic Guides](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8) - Requiem has some basic guides here<br>
+[**Requiem** - Scenario Guides](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8) - If you want specific guides for scenarios, this is the place
 
 ### There is also many twitch streamers! [Beyond All Reason on Twitch!](https://www.twitch.tv/directory/category/beyond-all-reason)
 Also check out the [**Official Beyond All Reason Youtube**](https://www.youtube.com/@BeyondAllReason) for official tournament coverage, new update promos, Q&A videos, and official BAR OST.

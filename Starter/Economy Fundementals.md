@@ -52,7 +52,7 @@
 
 #### [Click here for a deeper dive on how long it takes to build something or resources spent/sec](https://github.com/Zete0/Guides/blob/main/Technical/Calculating%20Resources%20Spent.md)
 
-*This [widget](https://discord.com/channels/549281623154229250/1158860869980139550) (downloaded from the discord) can also be quite useful, it calculates the build power cost per second. Information on installing widgets can be found [here](https://github.com/Zete0/Mentor-Guides/blob/main/Customization/Using%20Widgets.md)*
+*This [widget](https://discord.com/channels/549281623154229250/1158860869980139550) (downloaded from the discord) can also be quite useful, it calculates the build power cost per second. Information on installing widgets can be found [here](https://github.com/Zete0/Mentor-Guides/blob/main/Customization/Using%20Widgets.md). Note: widgets are disabled for tournaments, so while they can be helpful, it's good not to rely on them if you plan to get super-amazingly good*
 
 <br></br><br></br>
 ## Balancing Economy is First Step to Victory

@@ -6,7 +6,7 @@
 ##### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; To achieve this goal, players utilize resources in order to build units and structures and command armies to destroy the opposing team(s).
 ##### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; What this entails:
 ###### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; - building up your resources in order to field a larger army
-###### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; - Controlling more territory to build resources on
+###### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; - Controlling more territory to gather resources on
 ###### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; - Building the right units for the job
 ###### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; - Building Higher Tier units *(eventually)*
 

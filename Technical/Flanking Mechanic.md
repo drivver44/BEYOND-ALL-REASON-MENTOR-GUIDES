@@ -1,4 +1,4 @@
-[comment]: <> (Note: These could be hover tooltips when hovering over Build Time)
+![4f35e1d964a2e5204e865a7d5f74004d](https://github.com/Zete0/Mentor-Guides/assets/47950648/1cd056ce-14c3-4aae-a409-4688db4182a5)[comment]: <> (Note: These could be hover tooltips when hovering over Build Time)
 
 # The Flanking Mechanic
 <sup><sup>(Author: Zeteo)</sup></sup>
@@ -38,7 +38,7 @@ Essentially, when a unit is hit, the direction of the hit becomes the frontal fl
 - Each hit after the first recieves bonus damage, the closer it is to the back, the more bonus damage there is *(200% if hit from directly behind, where the red bar is)*.
 - The flank direction then adjusts and moves towards the new hit - the amount it moves depends on how long it's been since the last hit.
 
-https://github.com/Zete0/Mentor-Guides/assets/47950648/b1aa43bb-d87a-418f-94d7-f8fe427cfe2f
+![4f35e1d964a2e5204e865a7d5f74004d](https://github.com/Zete0/Mentor-Guides/assets/47950648/86279aa1-c6bf-4e63-a9f0-91a4a7f3c8c0)
 
 *Here, the centurion is hit by the thug first, placing the indicator towards the thug, then, rapidly hit by a grunt in the back. The grunt is dealing bonus damage and the indicator slowly moves towards the grunt. Since it's attacking quickly, it moves slowly. As it moves towards the grunt, the grunt's attack recieves less of a bonus while the thug's attack bonus increases. The grunt then moves away and the thug, with it's slower attack, moves the indicator in big chunks each time it's shot lands*.
 
@@ -49,6 +49,8 @@ https://github.com/Zete0/Mentor-Guides/assets/47950648/b1aa43bb-d87a-418f-94d7-f
 - The flank direction then adjusts and moves towards the new hit - the amount it moves depends on how long it's been since the last hit.
 
 https://github.com/Zete0/Mentor-Guides/assets/47950648/4bafb898-12f7-4dc3-85bc-de4fecaa06a6
+
+
 
 (Need new video that shows all that instead)
 
