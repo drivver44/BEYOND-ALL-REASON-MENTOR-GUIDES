@@ -3,7 +3,7 @@
 
 ### The Economic Gameloop is the general economic fundemental backbone
 This should be focused on first before anything else, oftentimes other issues can stem from an improper economy
-> - Without having a proper economy, one cannot even begin to play the game well
+> - Without having a proper economy, one cannot even begin to play
 
 <br><br>
 
