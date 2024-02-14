@@ -37,18 +37,20 @@
 ### Here's a list of youtube channels provided by Mentors
 
 
-[**MasterBel2**](https://www.youtube.com/@MasterBel2) - Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer<br>
+-----
+[**Zeteo**](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) - Large library of game analysis from replays submitted (covers a wide variety of things<br>
+[**Volshok**](https://www.youtube.com/@Volshok-on5qy) - Volshok is known for his backline play and knows quite a bit about ecoing. This channel also has game analysis<br>
+[**BARCastTV**](https://www.youtube.com/@BARCastTV) - Well known in the 1v1 scene, channel has a lot of interviews with top tier players, tournaments, as well mentoring stuff, including 'Sunday At the Bar' episodes<br>
+<br>
 [**lolsteamroller**](https://www.youtube.com/@lolsteamroller) - Another long time player, Top Tier Tournament Competator, loves to talk BAR economy<br>
-[**Zeteo**](https://www.youtube.com/@Zeteo-/playlists?view=50&sort=dd&shelf_id=2) - Relatively newer player, but has a growing library of replay analysis full of detail<br>
 [**Drivver**](https://www.youtube.com/@drivver4470) - Long time player, has some reviews on his channel, as well as other random quirky stuff
-
+<br>
 [**Requiem** - Basic Guides](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8) - Requiem has some basic guides here<br>
 [**Requiem** - Scenario Guides](https://www.youtube.com/playlist?list=PL9ijWAhxNikJypATiYwBIx5WecRvcCNU8) - If you want specific guides for scenarios, this is the place
 
 
 ### Non-Mentor Channels
-
-
-[**BARCastTV**](https://www.youtube.com/@BARCastTV) - Good 1v1 player, channel has a lot of interviews with top tier players and tournaments<br>
+-----
+[**MasterBel2**](https://www.youtube.com/@MasterBel2) - Long time player of Balanced Annihilation (predecessor of BAR), top tier Tournament Competator and game analyzer<br>
 [**Raghna**](https://www.youtube.com/@raghna) - Raghna is one of the best BAR players, and has some old, but still useful starter content<br>
 [**Wintergaming**](https://www.youtube.com/playlist?list=PLUG8Uhis3FKyXyHCwoqjZyEsr4-K2G37X) - Winter was quite new when he made these videos, but there is still some informational videos
