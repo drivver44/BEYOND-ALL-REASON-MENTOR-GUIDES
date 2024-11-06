@@ -2,10 +2,8 @@
 
 ## Duels
 - *Placeholder*
-<br>
 ## Team Games
-<sup><sup>(Author: NuttyWombat)</sup></sup>
-<br>
+(Author: NuttyWombat)
 - **Raiding Units**: Cheap, light, and fast units. Great at repositioning quickly to catch leaks, or leak themselves. Bad against LLT lines.
   - Pawns, Grunts, Blitz Tanks, Incisors
 - **Skirmishing Units**: Units that engage at max range and distance.
@@ -14,9 +12,7 @@
   - Medium Tanks, Plasma Bots
 - **Anti-Swarm Units**: Units with good Area of Effect damage and Impulse. Good against medium to large numbers of light units.
   - Janus, Centurion, Pounder
-<br>
 ### Laning
-<br>
 - In team games, the laning phase of the game is mostly played using Skirmishing units, or Assault units.
   - In the case of Skirmishers, you want to engage at max range and minimize how much damage you're taking. In mirror matches, that can get a little tedious, moving forward and back while trading blows with enemy units.
   - To help skirmish, using something to establish Line of Sight helps significantly. That can be an aggressively placed Radar right behind your units, or a Scout (Rascal, Rover, Tick, Grunt) in the line with the the Rocket Bots.
