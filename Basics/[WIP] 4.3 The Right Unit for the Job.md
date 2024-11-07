@@ -3,7 +3,7 @@
 
 ## Unit Classes
 - **Scout Units**: Extremely Cheap, light, very fast, and large LoS. Great at very very early game harass before too many other units are out and getting information.
-  - Pawns, Grunts, Blitz Tanks, Incisors
+  - Ticks, Rovers, Rascals
 - **Raiding Units**: Cheap, light, and fast units. Great at repositioning quickly to catch leaks, or leak themselves. Bad against LLT lines.
   - Pawns, Grunts, Blitz Tanks, Incisors
 - **Skirmishing Units**: Units that engage at max range and distance.
