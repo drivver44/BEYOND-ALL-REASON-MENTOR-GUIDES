@@ -4,12 +4,16 @@
 ## Unit Classes
 - **Scout Units**: Extremely Cheap, light, very fast, and large LoS. Great at very very early game harass before too many other units are out and getting information.
   - Ticks, Rovers, Rascals
+
 - **Raiding Units**: Cheap, light, and fast units. Great at repositioning quickly to catch leaks, or leak themselves. Bad against LLT lines.
   - Pawns, Grunts, Blitz Tanks, Incisors
-- **Skirmishing Units**: Units that engage at max range and distance.
+
+- **Skirmishing Units**: Units that are best engage at max range and distance.
   - Missile Trucks, Rocket Bots
+
 - **Assault Units**: Tanky units that can take some damage while they engage. Benefit greatly from regular repairs.
   - Medium Tanks, Plasma Bots
+
 - **Anti-Swarm Units**: Units with good Area of Effect damage and Impulse. Good against medium to large numbers of light units.
   - Janus, Centurion, Pounder
 
