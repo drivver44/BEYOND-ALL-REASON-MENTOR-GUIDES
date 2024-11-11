@@ -1,5 +1,5 @@
 # Scavengers Info
-<sup><sup>(Author: kroIya)</sup></sup>
+<sup>(Author: kroIya)</sup>
 
 ## Introduction
 In the Scavengers gamemode, you are assaulted by relentless waves of seemingly mindless mechs.
