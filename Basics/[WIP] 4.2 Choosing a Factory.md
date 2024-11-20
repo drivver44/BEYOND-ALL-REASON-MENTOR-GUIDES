@@ -76,7 +76,7 @@ Look for maps with very slow wind speed, such as moon maps.
 - Comet Catcher Remake, Gecko Island, Flats and Forests, Moonshine Run, Starwatcher
 
 <br><br>
-### Final NOtes:
+### Final Notes:
 In many cases, it's entirely viable to transition into a different tier 1 lab. You do _NOT_ need to stick to the same factory.
 - Adapting to changes to the battlefield can be extremely strong.
 - You can reclaim your starting factory and replace it with a different factory. *(reclaiming a living unit/building returns 100% of the metal cost)*
