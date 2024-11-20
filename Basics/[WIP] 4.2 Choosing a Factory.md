@@ -1,7 +1,7 @@
 # How to Choose a Factory
 <sup>(Author: Zeteo)</sup>
 
-# Not All Unit Types are Equal in Every Occasion
+## Not All Unit Types are Equal in Every Occasion
 
 Each type of factory is strong in different ways and it's important to be able to tell the difference. Some maps are better for bots while some maps are better for vehicles.
 
