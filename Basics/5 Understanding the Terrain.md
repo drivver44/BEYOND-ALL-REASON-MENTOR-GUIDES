@@ -21,7 +21,7 @@ If you are unfamiliar with a map, it is highly suggested to make note of various
 	- Many cliffs are just not passible by your typical vehicle or bot, but fear not, there are also special all terrain spider bots that can traverse any cliff. These units are especially useful when your opponent is relying on mountainous terrain to defend themselves - you can just go over the cliffs, around your opponent's defensive position
 - **Deep vs Shallow vs Waters**
 	- You can find the elevation of terrain by hovering your mouse over a spot (*While having nothing selected*). This is useful to determine how deep the water is (*When a map has water, the water always starts at an elevation of 0*)
-	- Vehicles and bots cannot traverse water deeper than 22, **ticks will not go in water deeper than 5 dpeth**
+	- Vehicles and bots cannot traverse water deeper than 22, **ticks will not go in water deeper than 5 depth**
 	- Many units cannot attack in water around 18 deep (*This depends on if the unit's weapon is submerged - it's not a fixed value*)
 	- Larger ships (*bigger T2 ships*) and submarines can only traverse water at least 16 deep
 - **Amphibious Units**
