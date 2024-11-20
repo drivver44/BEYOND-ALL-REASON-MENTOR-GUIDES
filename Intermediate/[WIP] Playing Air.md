@@ -5,6 +5,8 @@
 - The most important skill for an air player to have is map awareness, seeing what's going on and figuring out how to benefit your team. Sometimes that means putting more production into fighters, other times more production into shurikens or transporting a commander somewhere to help. For this reason, it's not advised for new players to go air, since you need to have a reasonable understanding of the battlefield.
 - The second most important job of an air player is gathering information, especially early on. Early game scouts can provide lots of useful information that can help your team adapt. 
 
+![image](https://github.com/user-attachments/assets/2f598e83-4c8d-481d-abdc-63c37b7f5886)
+
   This includes:
   - Which faction people will be mainly up against
   - Which factory those people have opened with
@@ -12,12 +14,14 @@
   - How far forward those opposing commanders are
   - Which opponent is in each spot
 - Air players can also sell someone a transport *(usually bought with 2 wind turbines)* to move their commander further forward faster. On some maps , it's important to give some players very early transports to secure an important part of the map. On Nuclear Winter, for example, it's very common to transport the back bottom player to the hill for them to build a factory there while trying to also build a fighter quickly to prevent the enemy from shooting said transport down, or to take out an opposing transport
+
+
 - Air players are of course in charge of building fighters for anti air defense, but ultimately, it's a flex position that can transition out if need be. *If there is no enemy air player and your team is losing to ground, there's no sense in building tons of fighters*
 
 ## Differences Coming from Ground
 
 - Air is very E heavy compared to other units, so keep an eye on your E, it can drain faster than expected, so expect to need to build more energy.
-- Air Constructors aren't terribly efficient, they take a lot longer to build and tons of E to make. It is common in higher levels for an air player to either start with a bot lab for bot cons, or buy a bot con from an ally (especially if you can buy an off-faction con), or trade a bot con for a transport.
+- Air Constructors aren't terribly efficient, they take a lot longer to build and tons of E to make. It is common in higher levels for an air player to buy a bot con (or 2) from an ally (especially if you can buy an off-faction con), or trade a bot con for a transport.
 - Early on, since air units cost a lot of build time, it's not advised to walk your commander to grab mexes and waste that valuable build power. Instead, buy/build a ground con to grab them, or use a transport to move your commander around and grab those mexes faster. It's important to not slow yourself down with a lot of travel time when a transport is so easily available.
 - Usually air players play cortex since shurikens can be extremely valuable in stopping leaks/run-bys or aiding a push. The banshee, armada's counterpart, doesn't have the same utility. It takes a while to slowly kill any leaks.
 
