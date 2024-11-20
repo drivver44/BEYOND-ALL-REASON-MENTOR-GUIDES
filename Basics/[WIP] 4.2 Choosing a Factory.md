@@ -40,8 +40,9 @@ Each type of factory is strong in different ways and it's important to be able t
   - Amphibious can traverse steeper terrain than other vehicles and are a bit slower
   - T1 constructors have 80 build power (moderate build speed)
 
+<br><br>
 
-## Making a Choice
+# Making a Choice
 
 - Your choice depends on what kind of terrain your on. 
 - If you're playing a sea only position, you are limited to ships and hovercraft *(at least at the start, seaplanes platforms are available from a t1 construction ship)*.
@@ -55,26 +56,31 @@ Each type of factory is strong in different ways and it's important to be able t
 2. How flat is the terrain?
 3. Is there enough metal / energy reclaim to make a sizable difference?
 
-### Bots
+## Bots
 - Bots perform better when the terrain has many steep hills or on bumpy terrain where vehicles would have to slow down often
 - Since bots are cheaper on metal and higher on energy, it's easier to amass more of them when metal is harder to get and energy is easier to get
 - Bots can use terrain features to run over mountains or hide in holes that vehicles can't get to
 - Bots also have access to resbots *(ressurection bots)* that can very efficiently gather resources through reclaiming them *(look for rocks / trees)*,  can ressurect wrecks from the dead, and repair units very efficiently
 
-#### Some notable maps bots are a good choice
+### Some notable maps bots are a good choice
 Look for maps with higher wind speed, such as forest maps.
 - Heartbreak Hill, Ravaged, Wanderlust, Eye of Horus, Otago, Sunderance, Koom Valley (on hilly spawns)
-### Vehicles
+## Vehicles
 - Vehicles perform better when the terrain is very flat, where they can reach their max speed easily and plow through a location
 - Since vehicles are cheaper on energy and more costly on metal, they are often a better choice when metal is easier to get and energy is harder to get
 - Vehicles are generally a little stronger than bots, but can more easily get shut down by defenses stationed on a hill that's harder for them to reach
 - Vehicles also don't have a resbot, but have the option of building an amphibious constructor for building things in the water or on land across some water
 
-#### Some notable maps bots are a good choice
+### Some notable maps bots are a good choice
 Look for maps with very slow wind speed, such as moon maps.
 - Comet Catcher Remake, Gecko Island, Flats and Forests, Moonshine Run, Starwatcher
 
-#### **NOTE:** In many cases, it's entirely viable to transition into a different tier 1 lab. You do _NOT_ need to stick to one lab.
+<br><br>
+### Final NOtes:
+In many cases, it's entirely viable to transition into a different tier 1 lab. You do _NOT_ need to stick to the same factory.
+- Adapting to changes to the battlefield can be extremely strong.
+- You can reclaim your starting factory and replace it with a different factory. *(reclaiming a living unit/building returns 100% of the metal cost)*
+- IMPORTANT: In most cases, you cannot afford to produce efficiently out of multiple factories and should stick with one and add extra assisting build power to more effectively use it.
 
 
 
