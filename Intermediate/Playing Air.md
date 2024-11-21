@@ -54,8 +54,8 @@ If no one needs an early transport *(usually that's map dependent)*, it's up to 
 - While a unit is being transported, you can see the unit under it and you may see some of the unit's properties such as jamming. These properties do NOT transfer to the transport. It may be ill advised to think of it as a unit under a transport and instead a unit inside a transport that looks cooler if it was under it.
 - Some small buildings can be transported by T1 such a LLTs and construction turrets. Some units/buildings can only be transported by a larger T2 transport.
 - The "Transport Heavy" property some units have does NOT pertain to if it can be transported by a T1 transport, but instead, how much weight is added to the tranport *(thus slowing it down)*. So even though the construction turret is "heavy", it can be transported by a T1 transport.
+###### <img src="https://github.com/user-attachments/assets/53b54cbe-be9e-4500-8441-37316dd7a589" img align="center" width="200"> *(Cortex Hercules - T1 Air Transport)*
 
-  
 
 ## Bombers
 If you've never done a bombing run before, it can feel quite alien, as the micro is quite different because of the floaty nature of how bombers move and the simple fact you can't just use a fight command or move command to get them properly shooting.
