@@ -6,6 +6,7 @@
 - The second most important job of an air player is gathering information, especially early on. Early game scouts can provide lots of useful information that can help your team adapt. 
 ###### <img src="https://github.com/user-attachments/assets/2f598e83-4c8d-481d-abdc-63c37b7f5886" img align="center" width="100"> *(Cortex Finch - T1 Air Scout)*
 
+
   This includes:
   - Which faction people will be mainly up against
 
