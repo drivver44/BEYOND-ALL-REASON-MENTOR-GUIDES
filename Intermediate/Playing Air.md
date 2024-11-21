@@ -39,12 +39,20 @@ If no one needs an early transport *(usually that's map dependent)*, it's up to 
 - There are specific windows of opportunities based on what your opposing air player is doing. The biggest window of opportunity is when they are transitioning into T2 economy. This timing is going to change slightly depending on the map and who your opponent is, but there is potential to do a big bombing run around that time, a little before/after T2 cons start coming out *(destroying the only techer's t2 lab as it's finishing is very powerful)*. To use this timing to your advantage usually means giving up early T2 to produce a few extra fighters and a lot of bombers to be able to strike at that time.
 
 ## Fighters
-- 
+- Fighters are often the most efficient form of Anti-Air since they are cheap and can get anywhere on the map rather quickly
+- It's also very important to keep tabs on your opponent's fighter count. Get valuable information with allies building radar and scout once and a while to see what they have. If at all possible, you want to know if they're putting money into fighters, bombers or economy.
+- You want to spread out your fighters so that any intruding air unit can be shot down very quickly instead of waiting for fighters to get to it, when it may be too late
+  - People usually order fighters to patrol near the border, but sometimes have them in clouds spread across the area
+- Sometimes players rely solely on an air player to produce enough fighters to defend the team, so it can be rather important to produce enough to defend against the number of fighters you see AND potential bombers/gunships.
+  - This is a big reason why it's important you know what you're doing in terms of building your economy before playing air.
+
+- To engage enemy fighters, it's advised to use the `[Fight]` command so they actively engage the enemy instead of moving past them *(with move command)* or using the area attack command *(which orders them to all attack the same targets)*
+
 
 
 ## Transports
 - While a unit is being transported, you can see the unit under it and you may see some of the unit's properties such as jamming. These properties do NOT transfer to the transport. It may be ill advised to think of it as a unit under a transport and instead a unit inside a transport that looks cooler if it was under it.
-- Some small buildings can be transported by T1 such a LLTs and construction turrets. Some buildings can only be transported by a larger T2 transport.
+- Some small buildings can be transported by T1 such a LLTs and construction turrets. Some units/buildings can only be transported by a larger T2 transport.
 - The "Transport Heavy" property some units have does NOT pertain to if it can be transported by a T1 transport, but instead, how much weight is added to the tranport *(thus slowing it down)*. So even though the construction turret is "heavy", it can be transported by a T1 transport.
 
   
