@@ -129,7 +129,10 @@ If you are the dedicated air player and people expect you to defend with fighter
   - Also, since they are long range, you can spread them out further and put them in your base.
 
 
-
+# Finally, Air Positions are also Flex Positions
+- Playing Air isn't solely limited to the "air player". Any backline position can safely build air. Even frontline positions can supplement air if they know what they're doing.
+- Having one player match the other team's air player and a second air player to make bombers is a good strategy. When played well, the combination can overwhelm a lot of anti-air defenses.
+- If your team's in danger and there isn't a lot of enemy air, you can also build a ground force to help stabilize your allies or bulk up an attack, though usually shurikens are enough help.
 
 
 
