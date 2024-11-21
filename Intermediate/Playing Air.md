@@ -25,8 +25,8 @@
 - Early on, since air units cost a lot of build time, it's not advised to walk your commander to grab mexes and waste that valuable build power. Instead, buy/build a ground con to grab them, or use a transport to move your commander around and grab those mexes faster. It's important to not slow yourself down with a lot of travel time when a transport is so easily available.
 - Usually air players play cortex since shurikens can be extremely valuable in stopping leaks/run-bys or aiding a push. The banshee, armada's counterpart, doesn't have the same utility. It's weak attack takes a while to  destroy units, but can survive some light anti-air with it's higher HP.
 
-## Ways to Open
-If no one needs an early transport *(usually that's map dependant)*, it's up to you to decide how much you want to spend on air units and how much you spend towards economy, but it's almost always going to be better to buy a ground constructor (80-90 build power) of some sort in order to more quickly build infrustructure over building an air constructor (60 build power).
+## Opening
+If no one needs an early transport *(usually that's map dependent)*, it's up to you to decide how much you want to spend on air units and how much you spend towards economy, but it's almost always going to be better to buy a ground constructor (80-90 build power, 3450 built time) of some sort in order to more quickly build infrastructure over building an air constructor (60 build power) that takes much longer to build (7960 build time).
 ###### <img src="https://github.com/user-attachments/assets/02d1845a-9ff0-49f3-bd0d-2609e1b56459" img align="center" width="200"> *(110 Metal -> Arm T1 Bot Constructor)*
 
 - If You suspect your opponent isn't going to open with very early bombers, you can greed for more economy, but this does put your team at risk of being scouted and/or bombed early.
