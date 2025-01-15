@@ -21,6 +21,7 @@
 | --- | --- |
 | **/cheat** | Enables cheats to be used in a single player match |
 | **/nocost** | Makes all construction cost 1 Metal/Energy/BuildTime |
+| **/team \<number\>** | Changes control to team <number> - *NOTE: Team 1 in the Lobby is Team id 0 with this command, and Team 2 in the Lobby is Team id 1*
 | **/globallos** | Removes fog of war |
 | **/godmode** | Allows the player to control all units, friend or foe |
 | **/atm** | Provides 1000 Metal and Energy |
