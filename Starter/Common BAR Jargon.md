@@ -81,7 +81,7 @@
 
 <br>
 
-### Tech Tiers
+### Technologies
 -----
 **T1** - *Tier 1 units* <br>
 **T1.5** - *Tier 1 buildings that cannot be built from the commander, sometimes also refers to extra strong/expensive T1 units* <br>
@@ -89,6 +89,9 @@
 **T2.5** - *Extra strong/expensive T2 units that usually fair well against T3 units* <br>
 **T3** - *Tier 3 experimental units built from the experimental gantry* <br>
 **T3.5** - *Extra expensive T3 experimental units or expensive late game (LOLCannons, Juggernaut, Titan, Behemoth)* <br>
+
+**Teching** - *Usually a callout signalling they are building a T2 lab* <br>
+**Lateral Teching** - *To reclaim one's current lab and replace it with another of the same tier. (A.K.A Transitioning)* <br>
 
 <br>
 
